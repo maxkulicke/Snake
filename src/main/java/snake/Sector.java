@@ -27,6 +27,8 @@
  * 
  */
 
+package snake;
+
 public class Sector {
     
     

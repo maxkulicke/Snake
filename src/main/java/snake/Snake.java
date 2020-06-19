@@ -22,6 +22,8 @@
  * 
  */
 
+package snake;
+
 public class Snake {
     
   private char direction;

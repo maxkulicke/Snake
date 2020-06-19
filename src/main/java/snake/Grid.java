@@ -13,6 +13,8 @@
  * 
  */
 
+package snake;
+
 public class Grid {
     
   private final int numColumns;

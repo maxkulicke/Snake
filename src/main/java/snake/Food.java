@@ -10,6 +10,8 @@
  * 
  */
 
+package snake;
+
 public class Food {
     
   private int value;

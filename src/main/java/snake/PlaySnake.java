@@ -24,6 +24,8 @@
  * start to work together in harmony.
  */
 
+package snake;
+
 public class PlaySnake {
      
   private static int foodValue = 50;
